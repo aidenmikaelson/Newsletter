@@ -1,0 +1,124 @@
+<mjml>
+  
+  <mj-head>
+   <mj-font name="Shadows Into Light" href="https://fonts.googleapis.com/css?family=Shadows+Into+Light" rel="stylesheet">
+  </mj-head>
+    
+  <mj-body background-color="000000">
+    
+    <mj-section background-url="https://media1.tenor.com/images/e573603354be36b881822cf6f8f51316/tenor.gif?itemid=4756972">
+      <mj-group>
+      <mj-column>
+     		<mj-text align="left" color="white" font-family="Shadows Into Light" font-size="28px">
+        URBAN ART
+        </mj-text>
+      </mj-column>
+       <mj-column>
+      <mj-image src="http://res.cloudinary.com/aidenmikaelson/image/upload/v1526387723/Plan_de_travail_1_2x.png"  width="80px"align="right" > </mj-image>
+      </mj-column>
+        </mj-group>
+        </mj-section>
+      
+    <mj-section>
+    	<mj-column>
+      	<mj-image src="http://res.cloudinary.com/aidenmikaelson/image/upload/v1526387771/791fe5594cc2a768c32523d15229fa44.jpg" width="200px" align="left"> 
+        </mj-image>
+      </mj-column>
+      <mj-column> 
+      	<mj-text color="white" align="center" font-family="Shadows Into Light" font-size="30px">
+        Quand Tetris arrive en ville ! 
+        </mj-text>
+        <mj-text color="white" font-family="Shadows Into Light" font-size="17px">
+        L'urban art est de plus en plus appliquer, elle permet de montrer son talent, exprimer son ressenti, ses emotions à travers son art.    
+        </mj-text>
+      </mj-column>
+      </mj-section>
+    
+      <mj-section background-url="https://static1.squarespace.com/static/54d09890e4b01d126f05a2e1/56c33e16b654f95147f1749a/56cdf9d6c2ea510fbd51bbae/1456339458974/Original.gif?format=1500w">
+       <mj-column>
+  			<mj-image src="http://res.cloudinary.com/aidenmikaelson/image/upload/v1526387783/peinture_318-118098.jpg" width="100px">
+        </mj-image> 
+       </mj-column> 
+    </mj-section>
+    
+    <mj-section>
+      <mj-group>
+    	<mj-column>
+      	<mj-text align="left" color="white" font-family="Shadows Into Light" font-size="40px">
+        PARIS!
+        </mj-text>
+        <mj-image src="http://res.cloudinary.com/aidenmikaelson/image/upload/v1526387779/decorateur-d-39-interieur_318-109089.jpg" width="100px" align="center">
+        </mj-image>
+         <mj-text color="white" font-family="Shadows Into Light" font-size="15px">
+        Rejoignez nous le 28 juin 2018, Place de République à 15 heures. Soyez nombreux!  
+        </mj-text>
+      </mj-column>
+      <mj-column>
+      	<mj-image src="http://res.cloudinary.com/aidenmikaelson/image/upload/v1526387769/7c1bcc8701429e31584e23ea0722a611.jpg" width="200px">
+        </mj-image>
+      </mj-column>
+        </mj-group>
+    </mj-section>
+    
+    <mj-section>
+    	<mj-column>
+      	<mj-image src="http://res.cloudinary.com/aidenmikaelson/image/upload/v1526387770/8d7bece104d0f531edd4d49a89d737d5.jpg" width="220px" align="left">
+        </mj-image>
+      </mj-column>
+      <mj-column>
+      	<mj-text align="center" color="white" font-family="Shadows Into Light" font-size="40px">
+        Peinture créative
+        </mj-text>
+        <mj-image src="http://res.cloudinary.com/aidenmikaelson/image/upload/v1526387780/design-essentiel_318-52622.jpg" width="50px" align="left"> </mj-image>
+                  <mj-image src="http://res.cloudinary.com/aidenmikaelson/image/upload/v1526387782/peintre_318-113547.jpg" width="50px" align="center"> </mj-image>
+        <mj-image src="http://res.cloudinary.com/aidenmikaelson/image/upload/v1526387778/crayon-tirage_318-10771.jpg" width="50px" align="right"> </mj-image>
+      </mj-column>
+    </mj-section> 
+    
+    <mj-section background-url="https://media.giphy.com/media/EetU9FfpPPHYk/giphy.gif" padding-bottom="100px" padding-right="right"> 
+      <mj-group>
+      <mj-column> 
+      	<mj-image src="http://res.cloudinary.com/aidenmikaelson/image/upload/v1526475625/facebook.png" width="30px" align="center" padding="0"> 
+        </mj-image>
+        </mj-column>
+      <mj-column>
+        <mj-image src="http://res.cloudinary.com/aidenmikaelson/image/upload/v1526475762/twitter.png" align="center" width="30px" padding="0">
+        </mj-image>
+      </mj-column>
+      <mj-column>
+      	<mj-image src="http://res.cloudinary.com/aidenmikaelson/image/upload/v1526648036/instagram.png" width="30px" align="center"  padding="0">
+        </mj-image>
+        </mj-column>
+        <mj-column>
+        <mj-image src="http://res.cloudinary.com/aidenmikaelson/image/upload/v1526648909/linkedin.png" width="30px" align="center"  padding="0">
+         </mj-image>
+        </mj-column>
+      <mj-column>
+      <mj-image src="http://res.cloudinary.com/aidenmikaelson/image/upload/v1526648882/youtube.png" width="30px" align="center"  padding="0">
+        </mj-image>
+      </mj-column>
+        </mj-group>
+    </mj-section>
+    
+      <mj-section> 
+    	<mj-column>
+      	<mj-button align="right" color="black" font-size="15px" background-color="white" border-radius="50px">
+      Se désinscrire
+      </mj-button>     
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#212a34">
+    	<mj-column> 
+       	<mj-text align="left" color="white"  font-size="10px">
+        Copyright All rights reserved
+        </mj-text>
+      </mj-column>
+      <mj-column>
+      	<mj-text align="right" font-size="10px" color="white">
+        Qui sommes nous ?  Contacter l’Equipe ?  Rejoindre l’association ?
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

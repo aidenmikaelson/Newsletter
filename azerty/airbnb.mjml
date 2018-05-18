@@ -1,0 +1,51 @@
+<mjml>
+  <mj-body background-color="#000000">
+    <mj-raw>
+      <!-- Header -->
+    </mj-raw>
+    <mj-section padding-bottom="0px" background-color="white">
+      <mj-column width="50%">  
+        <mj-image src="https://i.amz.mshcdn.com/V_SC2utznCcgg2BgCZf6Hca_xIE=/950x534/2014%2F07%2F16%2F30%2FAirbnblogo.b4d61.jpg" width="80px" align="left"></mj-image>
+        </mj-column>
+      <mj-column width="50%">
+        <mj-text align="right" padding-top="20px"> February </mj-text>
+        </mj-column>
+      </mj-section>
+     <mj-section padding-bottom="0px" background-color="white">
+      <mj-column>
+      	<mj-text align="center" font-size="25px" color=#00A699 font-family="Helvetica, Arial, Sans-serif" font-weight="bold" font-size="36px" padding-top="5px">
+        	Host Newsletter
+        </mj-text>
+      </mj-column>
+     </mj-section>
+    <mj-section padding-bottom="0px" background-color="white">
+      <mj-image src="http://image.airbnbmail.com/lib/fe8d1273706c037e77/m/2/5Z_tl-animated_header_v2.gif"></mj-image>
+      	<mj-text align="left" font-size="31px" color=#484848 font-family="Helvetica, Arial, Sans-serif" font-weight="bold" font-size="36px" padding-top="5px">  
+      The next Airbnb, inspired by you
+        </mj-text>
+      </mj-section>
+    <mj-section padding-bottom="0px" background-color="white">
+      <mj-text  align="left" font-size="17px" color=#484848 font-family="Helvetica, Arial, Sans-serif" font-weight="bold" font-size="36px" padding-top="5px">
+      We’re announcing new ways to stand out, earn more, and attract the guests who’ll love your home. Watch the keynote live on February 22nd.
+      </mj-text>
+    </mj-section>
+    <mj-section padding-bottom="0px" background-color="white">
+    	<mj-button background-color=#009287 border-radius="50px">
+      RSVP to join the livestream
+      </mj-button>
+    </mj-section>
+    <mj-section padding-bottom="0px" background-color="white">
+    	<mj-column align="center">
+      <mj-image src="http://image.airbnbmail.com/lib/fe8d1273706c037e77/m/2/SanFran2.png" width="100px" align="center"></mj-image>
+    </mj-column>
+      <mj-column align="right">
+      	<mj-text font-size="20px" color=#484848 font-family="Helvetica, Arial, Sans-serif" font-weight="bold" font-size="36px" padding-top="5px">     
+You can still register your listing in SF!
+        </mj-text>
+        <mj-text font-size="12px" color=#484848 font-family="Helvetica, Arial, Sans-serif" font-weight="bold" font-size="36px" padding-top="5px">
+          Interested in hosting in San Francisco for less than 30 days at a time? Even if you missed the registration deadline, you can still register your listing with the City directly from our website or mobile app.
+        </mj-text>
+      </mj-column>
+   </mj-section>
+  </mj-body>
+</mjml>
